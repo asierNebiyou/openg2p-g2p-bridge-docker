@@ -4,7 +4,7 @@
 #!.
 # adapters/dependencies (adjust refs/branches/tags as needed)
 git+https://github.com/OpenG2P/openg2p-spar@2.0#subdirectory=openg2p-spar-models
-git+https://github.com/openg2p/openg2p-g2p-bridge-adapters@2.0#subdirectory=openg2p-g2p-bridge-bank-connectors
+git+https://github.com/asierNebiyou/openg2p-g2p-bridge-adapters@2.0#subdirectory=openg2p-g2p-bridge-bank-connectors
 git+https://github.com/openg2p/openg2p-g2p-bridge-adapters@2.0#subdirectory=openg2p-g2p-bridge-geo-resolver
 git+https://github.com/openg2p/openg2p-g2p-bridge-adapters@2.0#subdirectory=openg2p-g2p-bridge-notification-connectors
 git+https://github.com/openg2p/openg2p-g2p-bridge-adapters@2.0#subdirectory=openg2p-g2p-bridge-agency-allocator
